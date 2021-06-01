@@ -18,7 +18,7 @@ It allows you to increase your reach by not only making your app available to bu
 ## Tech Stack
 <img height="52" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" /></a>  <img height="82" src="https://img.flaticon.com/icons/png/512/136/136443.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" /></a>
 
-## App Preview - Integrated with an existing project
+## App Preview - Integrated with an Live project
  
  <h1 align="center">
   <img src="https://github.com/Vignesh0404/Flutter-Localization/blob/master/output/4.gif"  width=400 height=650>  <img src="https://github.com/Vignesh0404/Flutter-Localization/blob/master/output/5.gif"  width=400 height=650>
